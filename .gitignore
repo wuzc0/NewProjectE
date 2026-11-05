@@ -1,0 +1,11 @@
+/deps/
+/jdk-25/
+/classes/
+__pycache__/
+*.pyc
+*.log
+*.args
+*.jar
+!/original.jar
+/minecraft-26.3.json
+/fabric-server.json
